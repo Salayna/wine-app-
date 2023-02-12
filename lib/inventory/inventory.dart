@@ -1,0 +1,1 @@
+export './views/inventory_views.dart';

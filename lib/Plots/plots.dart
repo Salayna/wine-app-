@@ -1,0 +1,1 @@
+export './views/plots_views.dart';
